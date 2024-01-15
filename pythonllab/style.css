@@ -1,0 +1,60 @@
+
+
+body{
+    background-color:white;
+    text-align: center;
+    
+   
+}
+
+.LOGO{
+    
+    display: flex;
+   
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    
+    
+}
+.h1{
+    font-size: 50px;
+
+}
+nav{
+    box-shadow: 5px 5px 5px rgba(1, 1, 1, 0.05);
+    position: sticky;
+    top: 0;
+    margin-bottom: 32px;
+    background: white;
+    padding: 5px;
+    z-index: 50;
+    
+
+}
+.program1{
+    border: 2px solid black;
+    text-align: center;
+   
+     
+}
+.program2{
+    border: 2px solid black;
+     text-align: center;
+}
+.program3{
+    border: 2px solid black;
+     text-align: center;
+}
+.program4{
+    border: 2px solid black;
+     text-align: center;
+}
+.PROGRAM5{
+    border: 2px solid black;
+     text-align: center;
+}
+.program6{
+    border: 2px solid black;
+     text-align: center;
+}
